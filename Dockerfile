@@ -1,5 +1,7 @@
 FROM ubuntu:14.04
 
+MAINTAINER Patrice Freydiere (frett27@gmail.com)
+
 RUN apt-get upgrade
 RUN apt-get update
 RUN apt-get install -y git
