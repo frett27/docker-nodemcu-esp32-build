@@ -5,3 +5,7 @@ services:
 
 before_install:
   - docker build -t frett27/nodemcu-esp32-build .  
+  - docker run -ti frett27/nodemcu-esp32-build bash
+
+script:
+  - make clean
