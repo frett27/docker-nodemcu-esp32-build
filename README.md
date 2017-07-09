@@ -40,5 +40,5 @@ once compiled, you can take the 3 bin files from the build folder and flashthem 
 
 
 
-![](doc/2017-07-07 23_51_01-ESP32 DOWNLOAD TOOL V3.4.8.2.png)
+![](doc/flashproperties.png)
 
