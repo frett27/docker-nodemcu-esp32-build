@@ -1,7 +1,5 @@
 # docker-nodemcu-esp32-build
 
-![](https://travis-ci.org/frett27/docker-nodemcu-esp32-build.svg?branch=master)
-
 This project permis to build the **ESP32** branch from NodeMCU firmware, to be able to use lua as programming language for ESP32
 
 This image save time for direct build without having to setup the build environment.
