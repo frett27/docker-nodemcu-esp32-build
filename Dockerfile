@@ -29,6 +29,8 @@ RUN apt-get install -y libncurses5-dev
 RUN apt-get install -y flex bison
 RUN apt-get install -y gperf
 
+COPY sdkconfig sdkconfig
+
 # RUN make
 
 
