@@ -7,4 +7,4 @@ before_install:
   - docker build -t frett27/nodemcu-esp32-build .  
 
 script:
-  - docker run frett27/nodemcu-esp32-build make clean
+  - docker run frett27/nodemcu-esp32-build make
